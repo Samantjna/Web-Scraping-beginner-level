@@ -6,7 +6,7 @@
 Web scraping with practical examples and clear explanations. In this repository, I’ll use popular libraries like BeautifulSoup (bs4), Requests and 
 Selenium to extract data from websites. Scripts inside this repository are fully documented in English and Lithuanian and working.
 
-### - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+### - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 <a href=https://github.com/Samantjna/Web-Scraping-beginner-level/blob/main/Web_Scraping.py>★. BeautifulSoup (BS4)</a>
 
