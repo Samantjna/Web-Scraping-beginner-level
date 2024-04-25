@@ -4,7 +4,7 @@
 
 ## Introduction
 Web scraping with practical examples and clear explanations. In this repository, I’ll use popular libraries like BeautifulSoup (bs4), Requests and 
-Selenium to extract data from websites. Scripts inside this repository are fully documented in English and Lithuanian and working.
+Selenium to extract data from websites. Scripts inside this repository are fully documented in English & Lithuanian, and working.
 
 ### - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
